@@ -1,4 +1,4 @@
-# Advanced React Patterns
+# Advanced Cocoa Patterns
 
 ## Teaching method
 
